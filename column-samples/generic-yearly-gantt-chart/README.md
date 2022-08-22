@@ -18,7 +18,7 @@ This sample demonstrates the display of a yearly Gantt chart.
 Solution|Author(s)
 --------|---------
 generic-yearly-gantt-chart.json | [Tetsuya Kawahara](https://github.com/tecchan1107) ([@techan_k](https://twitter.com/techan_k))
-
+generic-yearly-gantt-chart-w-today.json | [Alvin Fong](https://github.com/hakki-max)
 ## Version history
 
 Version |Date          |Comments
